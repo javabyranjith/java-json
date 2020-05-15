@@ -1,0 +1,49 @@
+{
+	"books": {
+		"book": [
+			{
+				"title": {
+					"lang": "en",
+					"text": "Learn Java in 24 Hours"
+				},
+				"author": "Robert",
+				"year": "2005",
+				"price": "30.00",
+				"category": "JAVA"
+			},
+			{
+				"title": {
+					"lang": "en",
+					"text": "Learn .Net in 24 hours"
+				},
+				"author": "Peter",
+				"year": "2011",
+				"price": "40.50",
+				"category": "DOTNET"
+			},
+			{
+				"title": {
+					"lang": "en",
+					"text": "Learn XQuery in 24 hours"
+				},
+				"author": [
+					"Robert",
+					"Peter"
+				],
+				"year": "2013",
+				"price": "50.00",
+				"category": "XML"
+			},
+			{
+				"title": {
+					"lang": "en",
+					"text": "Learn XPath in 24 hours"
+				},
+				"author": "Jay Ban",
+				"year": "2010",
+				"price": "16.50",
+				"category": "XML"
+			}
+		]
+	}
+}
